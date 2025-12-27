@@ -16,7 +16,7 @@
         "version": 48,
         "internalName": "Anichin-Asia",
         "description": "Anichin Asia",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anichin.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Anichin.cs3",
         "name": "Anichin-Asia"
     },
     {                                                           
@@ -36,7 +36,7 @@
         ],
         "version": 11,
         "internalName": "AnimeSailProvider",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimeSailProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/AnimeSailProvider.cs3",
         "name": "AnimeSailProvider"        
     },
     {             
@@ -56,9 +56,9 @@
         ],
         "version": 7,
         "internalName": "Animekhor",
-        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimekhorProvider.jar",        
+        "jarUrl": "https://raw.githubusercontent.com/permatane/clouds/main/AnimekhorProvider.jar",        
         "description": "Include: Donghuaworld",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimekhorProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/AnimekhorProvider.cs3",
         "name": "Animekhor"
     },
     {
@@ -79,8 +79,8 @@
         ],
         "version": 3,
         "internalName": "Anoboy",
-        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anoboy.jar",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anoboy.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/permatane/clouds/main/Anoboy.jar",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Anoboy.cs3",
         "name": "Anoboy"
     },
     {
@@ -100,9 +100,9 @@
         ],
         "version": 5,
         "internalName": "Auratail",
-        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Auratailllz.jar",
+        "jarUrl": "https://raw.githubusercontent.com/permatane/clouds/main/Auratailllz.jar",
         "description": "Anime and Movies",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Auratailllz.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Auratailllz.cs3",
         "name": "Auratail"
     },
     {
@@ -122,7 +122,7 @@
         "version": 5,
         "internalName": "Donghub",
         "description": "Anime and Movies",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/DonghubProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/DonghubProvider.cs3",
         "name": "Donghub"
     },
     {        
@@ -142,9 +142,9 @@
         ],
         "version": 3,
         "internalName": "Funmovieslix",
-        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Funmovieslix.jar",
+        "jarUrl": "https://raw.githubusercontent.com/permatane/clouds/main/Funmovieslix.jar",
         "description": "Indonesia Source",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Funmovieslix.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Funmovieslix.cs3",
         "name": "Funmovieslix"
     },
     {    
@@ -165,7 +165,7 @@
         ],
         "version": 20,
         "internalName": "IdlixProvider",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/IdlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/IdlixProvider.cs3",
         "name": "IdlixProvider"                        
     },
     {
@@ -185,7 +185,7 @@
         "version": 3,
         "internalName": "KawanFilm",
         "description": "KawanFilm merupakan situs website tempat download dan nonton film Movie, TV series terbaru gratis streaming secara online.",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/KawanFilmProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/KawanFilmProvider.cs3",
         "name": "KawanFilm"
     },
     {
@@ -205,7 +205,7 @@
         ],
         "version": 21,
         "internalName": "Kuronime",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Kuronime.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Kuronime.cs3",
         "name": "Kuronime"        
     },
     {
@@ -226,8 +226,8 @@
         ],
         "version": 5,
         "internalName": "LayarKacaProvider",
-        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/LayarKacaProvider.jar",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/LayarKacaProvider.cs3",
+        "jarUrl": "https://raw.githubusercontent.com/permatane/clouds/main/LayarKacaProvider.jar",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/LayarKacaProvider.cs3",
         "name": "LayarKacaProvider"
     },
     {        
@@ -247,7 +247,7 @@
         ],
         "version": 12,
         "internalName": "Nimegami",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/NimegamiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/NimegamiProvider.cs3",
         "name": "Nimegami"
     },
     {
@@ -267,7 +267,7 @@
         ],
         "version": 33,
         "internalName": "Ngefilm",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Ngefilm.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Ngefilm.cs3",
         "name": "Ngefilm"
     },
     {
@@ -287,7 +287,7 @@
         ],
         "version": 33,
         "internalName": "Nodrakorid",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/NodrakoridProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/NodrakoridProvider.cs3",
         "name": "Nodrakorid"        
     },
     {
@@ -307,7 +307,7 @@
         "version": 10,
         "internalName": "OppadramaProvider",
         "description": "OppadramaProvider",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Oppadrama.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Oppadrama.cs3",
         "name": "OppadramaProvider"
     },
     {                                                                                      
@@ -329,7 +329,7 @@
         "version": 4,
         "internalName": "Pusatfilm",
         "description": "Pusatfilm adalah plugin yang menyediakan tautan streaming untuk film dan serial TV.",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/PusatfilmProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/PusatfilmProvider.cs3",
         "name": "Pusatfilm"
     },
     {
@@ -394,7 +394,7 @@
         "version": 231,
         "internalName": "SoraStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/SoraStream.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/SoraStream.cs3",
         "name": "SoraStream" 
     },
     {                
@@ -584,7 +584,7 @@
         "version": 2,
         "internalName": "StreamFlix",
         "description": "StreamFlix Multi Language Movies and Series Provider",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/StreamFlixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/StreamFlixProvider.cs3",
         "name": "StreamFlix"
     },
     {    
@@ -670,7 +670,7 @@
         ],
         "version": 1,
         "internalName": "Zoronime",
-        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Zoronime.cs3",
+        "url": "https://raw.githubusercontent.com/permatane/clouds/main/Zoronime.cs3",
         "name": "Zoronime"                            
     }
 ]
