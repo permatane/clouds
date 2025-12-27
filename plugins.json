@@ -1,0 +1,676 @@
+[
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 32153,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 48,
+        "internalName": "Anichin-Asia",
+        "description": "Anichin Asia",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anichin.cs3",
+        "name": "Anichin-Asia"
+    },
+    {                                                           
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 15404,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "AnimeSailProvider",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"        
+    },
+    {             
+        "iconUrl": "https://animekhor.org/wp-content/uploads/2021/11/AnimeKhor_darkmode.png",
+        "jarFileSize": 75717,        
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 17504,        
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 7,
+        "internalName": "Animekhor",
+        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimekhorProvider.jar",        
+        "description": "Include: Donghuaworld",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/AnimekhorProvider.cs3",
+        "name": "Animekhor"
+    },
+    {
+        "iconUrl": "https://icons.duckduckgo.com/ip3/ww3.anoboy.app.ico",
+        "jarFileSize": 96079,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 22854,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "Anoboy",
+        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anoboy.jar",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Anoboy.cs3",
+        "name": "Anoboy"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/R.png",
+        "jarFileSize": 58323,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 14565,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Auratail",
+        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Auratailllz.jar",
+        "description": "Anime and Movies",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Auratailllz.cs3",
+        "name": "Auratail"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 16341,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 5,
+        "internalName": "Donghub",
+        "description": "Anime and Movies",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/DonghubProvider.cs3",
+        "name": "Donghub"
+    },
+    {        
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/fun.png",
+        "jarFileSize": 69782,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 18527,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "Funmovieslix",
+        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Funmovieslix.jar",
+        "description": "Indonesia Source",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Funmovieslix.cs3",
+        "name": "Funmovieslix"
+    },
+    {    
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/idlix.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 22879,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 20,
+        "internalName": "IdlixProvider",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/IdlixProvider.cs3",
+        "name": "IdlixProvider"                        
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/K.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "status": 1,
+        "language": "id",        
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie Terbaru",
+            "Korea Movie",
+            "India Movie"
+        ],
+        "version": 3,
+        "internalName": "KawanFilm",
+        "description": "KawanFilm merupakan situs website tempat download dan nonton film Movie, TV series terbaru gratis streaming secara online.",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/KawanFilmProvider.cs3",
+        "name": "KawanFilm"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/romo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 24812,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 21,
+        "internalName": "Kuronime",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Kuronime.cs3",
+        "name": "Kuronime"        
+    },
+    {
+       "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "jarFileSize": 89768,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 20451,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated, Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "LayarKacaProvider",
+        "jarUrl": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/LayarKacaProvider.jar",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {        
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 22306,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 12,
+        "internalName": "Nimegami",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/NimegamiProvider.cs3",
+        "name": "Nimegami"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/ng.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20149,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Ngefilm",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Ngefilm.cs3",
+        "name": "Ngefilm"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/nod.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 20149,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 33,
+        "internalName": "Nodrakorid",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/NodrakoridProvider.cs3",
+        "name": "Nodrakorid"        
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/w.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 21183,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "OppadramaProvider",
+        "description": "OppadramaProvider",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Oppadrama.cs3",
+        "name": "OppadramaProvider"
+    },
+    {                                                                                      
+         "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/G.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 12055,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz",
+            "Tekuma25"            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "Pusatfilm",
+        "description": "Pusatfilm adalah plugin yang menyediakan tautan streaming untuk film dan serial TV.",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/PusatfilmProvider.cs3",
+        "name": "Pusatfilm"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/A.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 15649,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 24,
+        "internalName": "AnimeIndo",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/AnimeIndo.cs3",
+        "name": "AnimeIndo"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animasu.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 23585,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 13,
+        "internalName": "Animasu",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Animasu.cs3",
+        "name": "Animasu"
+    },
+    {    
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/sora.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 116907,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 231,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/SoraStream.cs3",
+        "name": "SoraStream" 
+    },
+    {                
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.dubbindo.site&sz=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+        "fileSize": 11881,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated",
+            "TeKuma25"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Cartoon",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Dubbindo",
+        "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Dubbindo.cs3",
+        "name": "Dubbindo"        
+    },
+    {                        
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww03.pencurimovie.bond&size=%size%",
+        "jarFileSize": 48911,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 12656,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Pencurimovie",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.jar",
+        "description": "Pencurimovie ",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pencurimovie.cs3",
+        "name": "Pencurimovie"
+    },
+    {    
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 301668,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent"
+        ],
+        "version": 187,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 45194,
+        "status": 1,
+        "authors": [
+            "megix"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 30,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo, JioHotstar(Hotstar, Disney, Paramount, HBO, Peacock) Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
+    },
+    {
+        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 699836,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98",
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 330,
+        "internalName": "StreamPlay",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
+        "name": "StreamPlay"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 97327,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
+        ],
+        "version": 20,
+        "internalName": "SuperStream",
+        "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://clouding.vn/wp-content/uploads/2022/10/cropped-Cloud-Services-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://gitlab.com/tearrs/cloudstream-vietnamese",
+        "fileSize": 39768,
+        "status": 1,
+        "authors": [
+            "anhdaden", "RowdyRushya"
+        ],
+        "version": 6,
+        "internalName": "SyncProvider",
+        "description": "\u0110\u1ed3ng b\u1ed9 c\u00e0i \u0111\u1eb7t v\u00e0 l\u1ecbch s\u1eed xem gi\u1eefa c\u00e1c thi\u1ebft b\u1ecb",
+        "url": "https://gitlab.com/tearrs/cloudstream-vietnamese/-/raw/main/SyncProvider.cs3",
+        "name": "Cross-Device Sync"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 306450,
+        "status": 2,
+        "language": "en",
+        "authors": [
+            "RowdyRushya,Phisher98"
+        ],
+        "tvTypes": [
+            "All"
+        ],
+        "version": 19,
+        "internalName": "Ultima",
+        "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
+        "name": "Ultima"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/7geBQBtW_yN70BU81Oi2SoZvYsj5VoYrI4FmUNdqWQlchtExJb7XE_1BQysGzgJ6mBU",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 35963,
+        "status": 1,
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "StreamFlix",
+        "description": "StreamFlix Multi Language Movies and Series Provider",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/StreamFlixProvider.cs3",
+        "name": "StreamFlix"
+    },
+    {    
+        "iconUrl": "https://raw.githubusercontent.com/Kohi-den/extensions-source/927f9c68fd64ce52f6212ae633d0f0585eca3545/src/en/donghuastream/res/mipmap-xxxhdpi/ic_launcher.png",
+        "jarFileSize": 166200,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 30694,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 12,
+        "internalName": "Donghuastream",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.jar",
+        "description": "Contains SeaTV (Chinese)",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Donghuastream.cs3",
+        "name": "Donghuastream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "jarFileSize": 110555,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 25175,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98,Hexated,Peerless"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "KisskhProvider",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://img.watch32.sx/xxrz/400x400/100/a9/5e/a95e15a880a9df3c045f6a5224daf576/a95e15a880a9df3c045f6a5224daf576.png",
+        "jarFileSize": 90159,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 22925,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Movies",
+            "TV Series"
+        ],
+        "version": 7,
+        "internalName": "Watch32",
+        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.jar",
+        "description": "Watch movies and series from Watch32",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Watch32.cs3",
+        "name": "Watch32"
+    },
+    {
+        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/Zoro.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/cloudstream",
+        "fileSize": 16699,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSannz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Zoronime",
+        "url": "https://gitlab.com/sannnfree10/cloudstreamfree/-/raw/FREE/Zoronime.cs3",
+        "name": "Zoronime"                            
+    }
+]
