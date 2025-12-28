@@ -217,7 +217,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated, Phisher98"
+            "Hexated", "Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -318,8 +318,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "TheMata",
-            "Tekuma25"            
+            "TheMata", "Tekuma25"            
         ],
         "tvTypes": [
             "AsianDrama",
@@ -556,7 +555,7 @@
         "status": 2,
         "language": "en",
         "authors": [
-            "RowdyRushya,Phisher98"
+            "RowdyRushya", "Phisher98"
         ],
         "tvTypes": [
             "All"
@@ -617,7 +616,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98,Hexated,Peerless"
+            "Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
