@@ -84,7 +84,7 @@
         "name": "Anoboy"
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/R.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=auratail.vip&sz=%size%",
         "jarFileSize": 58323,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
@@ -126,7 +126,7 @@
         "name": "Donghub"
     },
     {        
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/fun.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=funmovieslix.com&sz=%size%",
         "jarFileSize": 69782,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
@@ -148,7 +148,7 @@
         "name": "Funmovieslix"
     },
     {    
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/idlix.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv12.idlixku.com/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 22879,
@@ -169,7 +169,7 @@
         "name": "IdlixProvider"                        
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/K.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv2.kawanfilm21.co/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "status": 1,
@@ -189,7 +189,7 @@
         "name": "KawanFilm"
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/romo.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuronime.moe/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 24812,
@@ -217,7 +217,7 @@
         "status": 1,
         "language": "id",
         "authors": [
-            "Hexated", "Phisher98"
+            "Hexated, Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -251,7 +251,7 @@
         "name": "Nimegami"
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/ng.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.ngefilm21.pw/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 20149,
@@ -291,7 +291,7 @@
         "name": "Nodrakorid"        
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/w.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=138.68.182.223/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 21183,
@@ -311,14 +311,15 @@
         "name": "OppadramaProvider"
     },
     {                                                                                      
-         "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/G.png",
+         "iconUrl": "https://www.google.com/s2/favicons?domain=v2.pusatfilm21info.com/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 12055,
         "status": 1,
         "language": "id",
         "authors": [
-            "TheMata", "Tekuma25"            
+            "TheMata",
+            "Tekuma25"            
         ],
         "tvTypes": [
             "AsianDrama",
@@ -332,7 +333,7 @@
         "name": "Pusatfilm"
     },
     {
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/A.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animindo.net/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
         "fileSize": 15649,
@@ -374,7 +375,7 @@
         "name": "Animasu"
     },
     {    
-        "iconUrl": "https://gitlab.com/sannelitzzzz/hbsjahvababbwproelitezzz/-/raw/Gagwfwhhwgvwnwjkwiiwgwdgwjwiw7twgwvca/sora.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.sorastream.com/sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/recloudstream/cloudstream",
         "fileSize": 116907,
@@ -555,7 +556,7 @@
         "status": 2,
         "language": "en",
         "authors": [
-            "RowdyRushya", "Phisher98"
+            "RowdyRushya,Phisher98"
         ],
         "tvTypes": [
             "All"
@@ -616,7 +617,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98"
+            "Phisher98,Hexated,Peerless"
         ],
         "tvTypes": [
             "AsianDrama",
